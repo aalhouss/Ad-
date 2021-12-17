@@ -1,2 +1,1 @@
-# Ad-
-Ad praktika 
+# Ad-Alghoritmen und Datenstrukturen 
